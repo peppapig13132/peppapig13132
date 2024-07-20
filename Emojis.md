@@ -2,7 +2,7 @@
 
 | Emoji                      | Raw Emoji Code               | Type               | Description |
 |:--------------------------:|------------------------------|--------------------|-------------|
-| :tada:                     | `:tada:`                     | `release`          | start **a new project** |
+| :tada:                     | `:tada:`                     | `new project`      | start **a new project** |
 | :sparkles:                 | `:sparkles:`                 | `new` or `feature` | add **new feature** |
 | :bug:                      | `:bug:`                      | `bug`              | fix **bug** issue |
 | :ambulance:                | `:ambulance:`                | `bug`              | critical hotfix **bug** issue |
