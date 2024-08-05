@@ -11,7 +11,6 @@
 | :lipstick:                 | `:lipstick:`                 | `update`           | update **UI/Cosmetic** |
 | :up:                       | `:up:`                       | `update`           | update **other** |
 | :truck:                    | `:truck:`                    | `update`           | **move** or **rename** files, repository, ... |
-| :twisted_rightwards_arrows:| `:twisted_rightwards_arrows:`| `update`           | merge **conflict resolution** |
 | :heavy_plus_sign:          | `:heavy_plus_sign:`          | `update`           | **add** files, dependencies, ... |
 | :heavy_minus_sign:         | `:heavy_minus_sign:`         | `update`           | **remove** files, dependencies, ... |
 | :on:                       | `:on:`                       | `update`           | **enable** feature and something ... |
@@ -40,7 +39,6 @@
 | :wrench:                   | `:wrench:`                   | `config`           | update **configuration** |
 | :hatching_chick:           | `:hatching_chick:`           | `release`          | **initial** commit |
 | :confetti_ball:            | `:confetti_ball:`            | `release`          | release **major** version |
-| :sparkles:                 | `:sparkles:`                 | `release`          | release **patch** version |
 | :rocket:                   | `:rocket:`                   | `release`          | **deploy** to production enviroment |
 | :bookmark:                 | `:bookmark:`                 | `release`          | **tagged** with version label |
 | :construction:             | `:construction:`             | `wip`              | **WIP** commiting |
