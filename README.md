@@ -10,4 +10,11 @@
 
 [![Focusing](https://skillicons.dev/icons?i=js,ts,nodejs,go,java,ruby,php,aws,linux)](https://skillicons.dev)
 
+## The Vicious Hiring Cycle: "Your Resume Isn't Always Enough!"
+
+| Who | Dialogue |
+| -: | :- |
+| HR/HRM/President | "Unfortunately, you're not the right person we're looking for at the moment." |
+| Job Seeker | "Maybe.<br>But I've noticed a pattern in the industry. Many companies tend to describe themselves in glowing terms and primarily look for highly experienced senior developers. This, in turn, often leads to inflated resumes and exaggerated skill sets—a kind of vicious cycle.<br>When job descriptions focus exclusively on senior roles, candidates feel pressured to overstate their qualifications just to get noticed.<br>That's not what I'm about. I believe in proving value through action.<br>I'm willing to work for up to five days, completely free of charge, to show you my skills and the experience I can bring to the table.<br>Don't you think this would be a more practical way to assess a developer's true capabilities?" |
+
 </div>
