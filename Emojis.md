@@ -19,7 +19,7 @@
 | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` | `performance`      | fix **performance** issue |
 | :art:                      | `:art:`                      | `improvement`      | improve **structure / format** of the code |
 | :zap:                      | `:zap:`                      | `improvement`      | update **backwards-compatible** feature, improve performance |
-| :boom:                     | `:boom`                      | `breaking`         | update **backwards-incompatible** feature |
+| :boom:                     | `:boom:`                      | `breaking`         | update **backwards-incompatible** feature |
 | :warning:                  | `:warning:`                  | `deprecated`       | **deprecate** feature |
 | :arrow_up:                 | `:arrow_up:`                 | `deps`             | upgrade **dependencies** |
 | :arrow_down:               | `:arrow_down:`               | `deps`             | downgrade **dependencies** |
