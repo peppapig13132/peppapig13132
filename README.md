@@ -34,3 +34,7 @@
 </table>
 
 What do you think, 👍 or 👎?
+
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/5ffe249f-f284-4753-8443-400d8e340679" width="auto" height="18" />
+</div>
