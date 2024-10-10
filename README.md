@@ -1,6 +1,6 @@
-<div align="center">
+<p>✌️Even if there is no perfect individual, there is a perfect group.</p>
 
-<h1>Even if there is no perfect individual, there is a perfect group.</h1>
+<div align="center">
 
 [![About me](https://img.shields.io/badge/GitHub-Click_me-blue)](https://api.github.com/users/peppapig13132)
 [![Emoji](https://img.shields.io/badge/Emoji-42-blue)](https://github.com/peppapig13132/peppapig13132/blob/main/Emojis.md)
