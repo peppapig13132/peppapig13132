@@ -10,7 +10,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peppapig13132)
 
-[![Focusing](https://skillicons.dev/icons?i=nodejs,java,php,go,py,postgres,docker,aws,linux)](https://skillicons.dev)
+[![Focusing](https://skillicons.dev/icons?i=nodejs,java,php,go,py,postgres,docker,aws,linux&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -30,7 +30,7 @@
   <tr>
     <td align="right">Job Seeker</td>
     <td align="left">
-      Maybe.<br>But I've noticed a pattern in the industry. Many companies tend to describe themselves in glowing terms and primarily look for highly experienced senior developers. This, in turn, often leads to inflated resumes and exaggerated skill sets—a kind of vicious cycle.<br>When job descriptions focus exclusively on senior roles, candidates feel pressured to overstate their qualifications just to get noticed.<br>That's not what I'm about. I believe in proving value through action.<br>I'm willing to work for up to five days, completely free of charge, to show you my skills and the experience I can bring to the table.<br>Don't you think this would be a more practical way to assess a developer's true capabilities?
+      Maybe.<br>But I've noticed a pattern in the industry. Many companies tend to describe themselves in glowing terms and primarily look for highly experienced senior developers. This, in turn, often leads to inflated resumes and exaggerated skill sets - a kind of vicious cycle.<br>When job descriptions focus exclusively on senior roles, candidates feel pressured to overstate their qualifications just to get noticed.<br>That's not what I'm about. I believe in proving value through action.<br>I'm willing to work for up to five days, completely free of charge, to show you my skills and the experience I can bring to the table.<br>Don't you think this would be a more practical way to assess a developer's true capabilities?
     </td>
   </tr>
 </table>
