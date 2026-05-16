@@ -1,4 +1,4 @@
-<p>✌️Even if there is no perfect individual, there is a perfect group.</p>
+<p>✌️No individual is perfect, but a team can be.</p>
 
 <div align="center">
 
