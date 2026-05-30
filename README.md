@@ -1,4 +1,4 @@
-<p>✌️No individual is perfect, but a team can be.</p>
+<p>✌️Nobody is perfect, but a team can be!</p>
 
 <div align="center">
 
